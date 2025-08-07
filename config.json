@@ -105,18 +105,6 @@
       "api": "https://cj.yayazy.net/api.php/provide/vod",
       "name": "丫丫影视"
     },
-    "taopian_sda": {
-      "api": "https://taopianapi.com/cjapi/sda/vod",
-      "name": "淘片SD影视"
-    },
-    "taopian_mc": {
-      "api": "https://taopianapi.com/cjapi/mc/vod",
-      "name": "淘片MC影视"
-    },
-    "taopian_mc10": {
-      "api": "https://taopianapi.com/cjapi/mc10/vod",
-      "name": "淘片MC10影视"
-    },
     "baidu": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
       "name": "百度云资源"
