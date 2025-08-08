@@ -232,11 +232,6 @@
       "query": "日本动画"
     },
     {
-      "name": "动漫",
-      "type": "tv",
-      "query": "动漫"
-    },
-    {
       "name": "综艺",
       "type": "tv",
       "query": "综艺"
